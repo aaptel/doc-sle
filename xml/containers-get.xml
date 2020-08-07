@@ -122,7 +122,6 @@
             <emphasis role="strong">title</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -149,7 +148,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -157,7 +155,6 @@
             org.opencontainers.image.<emphasis role="strong">description</emphasis> com.suse.sle.base.<emphasis role="strong">description</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -184,7 +181,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -192,7 +188,6 @@
             org.opencontainers.image.<emphasis role="strong">version</emphasis> com.suse.sle.base.<emphasis role="strong">version</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -219,7 +214,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -227,7 +221,6 @@
             org.opencontainers.image.<emphasis role="strong">created</emphasis> com.suse.sle.base.<emphasis role="strong">created</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -254,7 +247,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -262,7 +254,6 @@
             org.opencontainers.image.<emphasis role="strong">vendor</emphasis> com.suse.sle.base.<emphasis role="strong">vendor</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -289,7 +280,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -297,7 +287,6 @@
             org.opencontainers.image.<emphasis role="strong">url</emphasis> com.suse.sle.base.<emphasis role="strong">url</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -324,7 +313,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -332,7 +320,6 @@
             org.openbuildservice.<emphasis role="strong">disturl</emphasis> com.suse.sle.base.<emphasis role="strong">disturl</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -359,7 +346,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -367,7 +353,6 @@
             org.opensuse.<emphasis role="strong">reference</emphasis> com.suse.sle.base.<emphasis role="strong">reference</emphasis>
           </term>
           <listitem>
-            <para>
               <itemizedlist>
                 <listitem>
                   <para>
@@ -394,7 +379,6 @@
                   </para>
                 </listitem>
               </itemizedlist>
-            </para>
           </listitem>
         </varlistentry>
       </variablelist>
