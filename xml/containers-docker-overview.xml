@@ -125,7 +125,7 @@
    drives used and supported by the &deng;.
   </para>
 
-  <sect2 xml:id="Container_Drivers">
+  <sect2 xml:id="Container-Drivers">
    <title>Container Drivers</title>
    <para>
     &deng; uses
